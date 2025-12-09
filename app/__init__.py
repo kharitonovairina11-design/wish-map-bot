@@ -1,0 +1,2 @@
+"""Wish Map Bot application."""
+
